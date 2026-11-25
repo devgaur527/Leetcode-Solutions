@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0057-insert-interval](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0057-insert-interval) |
 ## Trie
 |  |
 | ------- |
