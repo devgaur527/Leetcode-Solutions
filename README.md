@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
@@ -48,5 +49,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0507-perfect-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
