@@ -21,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/devgaur527/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
